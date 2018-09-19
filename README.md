@@ -1,6 +1,6 @@
 ## Lecture List
 * BT01 Intro, Notes & Assets
-* BT02 
+* BT02 Battle Tank Overview
 * BT03 Game Design Document (GDD)
 * BT04 Setting Up a GitHub "Repo"
 * BT05 Creating and Deleting Landscapes
